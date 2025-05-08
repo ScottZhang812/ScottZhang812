@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812)
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
