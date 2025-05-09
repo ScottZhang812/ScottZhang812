@@ -3,11 +3,15 @@
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,7 +81,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:48:30 UTC
+ Last Updated on 09/05/2025 02:17:05 UTC
 <!--END_SECTION:waka-->
 
 
