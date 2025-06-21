@@ -11,6 +11,8 @@
 
 > 📦 39.1 kB Used in GitHub's Storage 
  > 
+> 🏆 89 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -44,18 +46,16 @@ Sunday                   497 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 mins              ████████████████░░░░░░░░░   65.39 % 
-Go                       3 mins              ████████░░░░░░░░░░░░░░░░░   30.40 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-machine-latest-miniK8s   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -75,7 +75,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 18:48:55 UTC
+ Last Updated on 21/06/2025 18:45:32 UTC
 <!--END_SECTION:waka-->
 
 
