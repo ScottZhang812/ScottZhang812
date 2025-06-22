@@ -9,9 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 39.1 kB Used in GitHub's Storage 
- > 
-> 🏆 89 Contributions in the Year 2025
+> 📦 39.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +73,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2025 18:45:32 UTC
+ Last Updated on 22/06/2025 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 
