@@ -11,6 +11,8 @@
 
 > 📦 39.0 kB Used in GitHub's Storage 
  > 
+> 🏆 89 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -75,7 +77,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:50:17 UTC
+ Last Updated on 27/06/2025 18:49:17 UTC
 <!--END_SECTION:waka-->
 
 
