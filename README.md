@@ -3,13 +3,15 @@
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 89 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +46,18 @@ Sunday                   497 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TSV                      38 mins             █████████████████████████   98.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TSV                      47 mins             █████████████████████████   98.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Cursor                   39 mins             █████████████████████████   100.00 % 
+Cursor                   48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LastBench                39 mins             █████████████████████████   100.00 % 
+LastBench                48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,7 +77,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 18:47:52 UTC
+ Last Updated on 29/06/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
 
 
