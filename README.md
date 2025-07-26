@@ -3,7 +3,7 @@
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,17 @@ Sunday                   497 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TSV                      10 mins             █████████████████████████   99.59 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TSV                      17 mins             █████████████████████████   99.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Cursor                   10 mins             █████████████████████████   100.00 % 
+Cursor                   17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LastBench                10 mins             █████████████████████████   100.00 % 
+LastBench                17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,7 +74,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 18:53:32 UTC
+ Last Updated on 26/07/2025 18:50:24 UTC
 <!--END_SECTION:waka-->
 
 
