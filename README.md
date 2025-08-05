@@ -3,7 +3,7 @@
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -44,18 +44,18 @@ Sunday                   497 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TSV                      35 mins             ██████████████████░░░░░░░   70.26 % 
-JSON                     14 mins             ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TSV                      1 hr 12 mins        ████████████████░░░░░░░░░   65.65 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 
 🔥 Editors: 
-Cursor                   50 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LastBench                50 mins             █████████████████████████   100.00 % 
+LastBench                1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,7 +75,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:56:00 UTC
+ Last Updated on 05/08/2025 18:58:02 UTC
 <!--END_SECTION:waka-->
 
 
