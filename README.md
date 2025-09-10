@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 45.6 kB Used in GitHub's Storage 
- > 
-> 🏆 121 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +44,18 @@ Sunday                   497 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████░░░░   85.28 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Python                   0 secs              ████████████░░░░░░░░░░░░░   48.18 % 
+TSV                      0 secs              █████████░░░░░░░░░░░░░░░░   36.41 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 
 🔥 Editors: 
-Cursor                   17 mins             █████████████████████████   100.00 % 
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LastBench                17 mins             █████████████████████████   100.00 % 
+LastBench                1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,7 +75,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:44:21 UTC
+ Last Updated on 10/09/2025 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 
