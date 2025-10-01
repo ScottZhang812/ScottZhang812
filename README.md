@@ -3,11 +3,12 @@
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2020%20mins-blue) -->
 
-**🐱 My GitHub Data** 
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue) -->
+
+<!-- **🐱 My GitHub Data** 
 
 > 📦 45.6 kB Used in GitHub's Storage 
  > 
@@ -74,7 +75,7 @@ Python                   3 repos             ███░░░░░░░░�
 Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-```
+``` -->
 
 
 
