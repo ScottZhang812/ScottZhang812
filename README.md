@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm an undergraduate student at Shanghai Jiao Tong University.
+
+Please feel free to contact me for any form of communication or collaboration!
+
+
+
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottZhang812) -->
 
 <!--START_SECTION:waka-->
@@ -79,12 +85,12 @@ Vim Script               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
+<!-- **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ScottZhang812/ScottZhang812/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:46:22 UTC
+ Last Updated on 30/09/2025 18:46:22 UTC -->
 <!--END_SECTION:waka-->
 
 
